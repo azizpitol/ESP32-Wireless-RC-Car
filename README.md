@@ -338,61 +338,7 @@ Through this project, I gained practical experience in:
 
 ---
 
-## 📷 Project Images
 
-### Completed RC Car
-
-<!-- Add your project photo here -->
-
-![RC Car](images/rc_car.jpg)
-
-### Electronics
-
-<!-- Add your electronics photo here -->
-
-![Electronics](images/electronics.jpg)
-
-### Wiring
-
-<!-- Add your wiring photo here -->
-
-![Wiring](images/wiring.jpg)
-
----
-
-## 🔌 Wiring Diagram
-
-<!-- Upload your final wiring diagram to the hardware folder and update this filename -->
-
-![Wiring Diagram](hardware/wiring_diagram.png)
-
----
-
-## 📁 Repository Structure
-
-```text
-wireless-rc-car-esp32/
-│
-├── README.md
-│
-├── src/
-│   └── rc_car.ino
-│
-├── hardware/
-│   ├── wiring_diagram.png
-│   └── pinout.md
-│
-├── documentation/
-│   ├── project_report.md
-│   └── components.md
-│
-└── images/
-    ├── rc_car.jpg
-    ├── electronics.jpg
-    └── wiring.jpg
-```
-
----
 
 ## 🚀 Project Status
 
