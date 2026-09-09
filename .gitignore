@@ -1,0 +1,25 @@
+# Arduino IDE
+*.bak
+*.tmp
+
+# Arduino build files
+build/
+*.elf
+*.hex
+*.bin
+*.eep
+
+# VS Code
+.vscode/
+
+# PlatformIO
+.pio/
+.piolibdeps/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.swp
+*.swo
